@@ -1,6 +1,6 @@
-Welcome to my GitHub. My name is Henzley. Currently a 2nd year student studying Applications Developmtent.
+Welcome to my GitHub. My name is Henzley. Currently a 3rd year student studying Applications Developmtent at the Cape Peninsula University of Technology.
 - I enjoy coding, I mean, it's fun.
-- Currently learning Java + PHP + JavaScript
-- 📫 How to reach me ... (I'll update this part at a later stage).
+- Java + PHP + JavaScript + MySQL
+- spoggie.hs@gmail.com
 
 

@@ -11,6 +11,7 @@ Welcome to my GitHub. My name is Henzley. Currently a 3rd year student studying 
 ## Result
 
 # Skills and interests evidence
+![Alt text](https://github.com/Henzley/Henzley/blob/56af35bd64670be88f5b0b3c95d22a6ea5c909f7/Screenshot%20from%202025-05-23%2022-58-01.png)
 
 ## Situation
 ## Task

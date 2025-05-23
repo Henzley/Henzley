@@ -19,6 +19,7 @@ Welcome to my GitHub. My name is Henzley. Currently a 3rd year student studying 
 ## Result
 
 # Personality assessment evidence
+![Alt text](https://github.com/Henzley/Henzley/blob/f0c57e99cc3b14cfb5c057c52b00a44a8be7d5c4/Screenshot%20from%202025-05-23%2022-59-42.png)
 
 ## Situation
 ## Task
